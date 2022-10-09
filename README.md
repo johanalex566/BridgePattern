@@ -11,7 +11,7 @@ What challenges the bridge pattern helps to overcome?
 
 A new requerimient: Discount
 
-The naive approach, Create two new inheritances for each license "TowDaysLicense" and "LifeLongLicense" in the last gerarchy shown on the image
+The naive approach, Create two new inheritances for each license "MilitaryTowDaysLicense", "SeniorTowDaysLicense" and "MilitaryLifeLongLicense", "SeniorLifeLongLicense" in the last gerarchy shown on the image
 
 Problem 1: Exponential growth of complexity
 ![image](https://user-images.githubusercontent.com/40399697/194780305-841f3421-f95a-4b20-99aa-02e73393c5ae.png)
