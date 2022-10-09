@@ -10,6 +10,10 @@ implementation so that the two can vary independently
 What challenges the bridge pattern helps to overcome?
 
 A new requerimient: Discount
+
+The naive approach
+
+Problem 1: Exponential growth of complexity
 ![image](https://user-images.githubusercontent.com/40399697/194780305-841f3421-f95a-4b20-99aa-02e73393c5ae.png)
 
 
