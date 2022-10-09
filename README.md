@@ -1,6 +1,3 @@
-# BridgePattern
-Design Bridge Pattern
-
 The Bridge Design Pattern
 -------------------------
 Its purpose is to decouple an abstraction from its 
