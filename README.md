@@ -31,7 +31,6 @@ we are going to replace all these subclasses with a new class hierarchy
 Now our code no DRY violation (Don't repeat yourself)
 Simplified the code
 
-The bridge pattern replaces complexity mmultiplication with complexity addition.
 
 Complexity emerges from coupling, coupling is connections between code elements
 
