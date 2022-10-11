@@ -5,7 +5,7 @@ implementation so that the two can vary independently
 
 Best definition
 
-Its purpose is to decouple an abstraction from its implementation so that the can vary independently
+Its purpose is to split a class hierarchy through composition to reduce coupling
 
 
 What challenges the bridge pattern helps to overcome?
