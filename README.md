@@ -20,6 +20,7 @@ How to solve it.
 Applying the Bridge pattern
 
 1: Split the class hierarchy
+We are going to replace all these subclasses with a new class hierarchy
 
 
 Pluralsight
