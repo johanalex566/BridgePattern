@@ -26,7 +26,7 @@ Applying the Bridge pattern
 1: Split the class hierarchy,
 we are going to replace all these subclasses with a new class hierarchy
 
-![image](https://user-images.githubusercontent.com/40399697/194981571-bd3e7f1b-1dd3-4b00-acce-8ef12b031761.png)
+![image](https://user-images.githubusercontent.com/40399697/194983086-59329483-b91c-4365-a914-378a0761b7ae.png)
 
 Now our code no DRY violation (Don't repeat yourself)
 Simplified the code
